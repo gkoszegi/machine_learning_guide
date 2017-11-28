@@ -31,10 +31,13 @@ The Internet is full of great open-source materials, books, blogs and articles i
 - ReLU - Rectified Linear Unit
 
 ## References - Books
-- **Neural Networks and Deep Learning** by Michael Nielsen [online](http://neuralnetworksanddeeplearning.com) [github](https://github.com/mnielsen/neural-networks-and-deep-learning)
-- **Deep Learning** by Ian Goodfellow and Yoshua Bengio and Aaron Courville [online](http://www.deeplearningbook.org) [amazon](https://www.amazon.com/dp/0262035618/)
-- **The Data Science Design Manual** by Steven S. Skiena [amazon](https://www.amazon.com/dp/3319554433/)
+- Neural Networks and Deep Learning *by Michael Nielsen* [[read online]](http://neuralnetworksanddeeplearning.com) [[github]](https://github.com/mnielsen/neural-networks-and-deep-learning)
+- Deep Learning *by Ian Goodfellow and Yoshua Bengio and Aaron Courville* [[read online]](http://www.deeplearningbook.org) [[amazon]](https://www.amazon.com/dp/0262035618/)
+- The Data Science Design Manual *by Steven S. Skiena* [[amazon]](https://www.amazon.com/dp/3319554433/)
 
 ## References - Blogs
-- **Colah's blog** [link](http://colah.github.io/)
-- **Andrej Karpathy's blog** [link](http://karpathy.github.io/)
+- [Colah's blog](http://colah.github.io/)
+- [Andrej Karpathy's blog](http://karpathy.github.io/)
+
+## Other Links
+- [List of datasets for machine learning](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
