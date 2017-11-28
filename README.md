@@ -3,8 +3,12 @@
 The Internet is full of great open-source materials, books, blogs and articles in this topic, and it is not easy to decide what to read first if you are a beginner. I have decided to learn about AI and ML a month ago, now my aim is to help people who are also novices but interested in these topics. I will collect here everything I read with links and short desciptions. I intend to structure the content in a step-by-step guide that would make it easier to comprehend.
 
 ## The background
-- Probability theory
-- Linear algebra
+- Math
+
+  The Deep learning book has a good summary on [Linear Algebra](http://www.deeplearningbook.org/contents/linear_algebra.html) and [Probability and Information Theory](http://www.deeplearningbook.org/contents/prob.html) which you will find very useful if you have learnt these in university a long time ago.
+  
+  On Colah's blog you can find [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/), a very well illustrated post about probability distributions and entropy. 
+
 - Programing languages, frameworks, libraries
 
 ## Optimization
