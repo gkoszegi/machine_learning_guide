@@ -1,14 +1,14 @@
 # A beginner's guide to machine learning
 
 ## Introduction
-The Internet is full of great open-source materials, books, blogs and articles in this topic, and it is not easy to decide what to read first if you are a beginner. I have decided to learn about AI and ML a few months ago, now my aim is to help people who are also novices but interested in these topics. I will collect the links of everything I read with short desciptions. I intend to structure the content by topics from the basics to the more advanced readings.
+The Web is full of great books, blogs, articles and open-source codes in this topic, and it is not easy to decide what to read first if you are a beginner. I have decided to learn about AI and ML a few months ago, now my aim is to help people who are also novices but interested in these topics. I will collect the links of everything I read with short desciptions. I will structure the content by topics from the basics to the more advanced readings.
 
-I'm planning to continuosly update this list of resources as I find more interesting readings.
+I'm planning to continuously update this list of resources when I find more notable readings.
 
-## Programing languages, frameworks, libraries
-While you are learning the basics I think it is not useful to dig deep into any of the deep learning frameworks, they hide the subtle details of all the intersting stuff which I want to understand to the smallest details before I go on with the advanced use cases. It is better to start with a library that provides only the necessary linear algebra.
+## Programming languages, frameworks, libraries
+While you are learning the basics I think it is not useful to dig deep into any of the deep learning frameworks. Those operate on higher levels while they hide the subtle details of all the intersting stuff. My goal is to understand the fundamentals of neural networks to the smallest details before I go on with the advanced use cases. With this attitude it was better to start with a library that provides only the necessary linear algebra.
 
-Using python for experimenting with gradient descent and back-propagation is very convenient. Numpy performs vector and matrix operations very efficiently, because under the hood it uses one of C libraries to do the math. In python you can very conveniently visualize the data you are working on with one of the plotting libraries like matplotlib or pyplot but there are many other choices, to get a good overview of them I recommend to watch the talk from PyCon2017.
+Using python for experimenting with gradient descent and back-propagation is very convenient. Numpy performs vector and matrix operations very efficiently, because under the hood it uses one of C libraries to do the math. In python you can easily visualize the data you are working on with one of the plotting libraries like matplotlib or pyplot. There are many other choices for drawing different charts, to get a good overview of them I recommend to watch the talk from PyCon2017 (referenced below).
   
   - Linear algebra libraries:
     - C/C++: [OpenBLAS](http://www.openblas.net/), [boost uBLAS](http://www.boost.org/doc/libs/1_65_1/libs/numeric/ublas/doc/index.html), [Intel Math Kernel Library](https://software.intel.com/en-us/mkl), [Eigen](https://eigen.tuxfamily.org/dox/) 
@@ -46,10 +46,10 @@ Using python for experimenting with gradient descent and back-propagation is ver
   - [Sigmoid neurons](http://neuralnetworksanddeeplearning.com/chap1.html#sigmoid_neurons)
   - [Rectified linear units (page 170)](http://www.deeplearningbook.org/contents/mlp.html)
 - Gradient descent
-  - From [Chapter 1 of Michael Nielsen's book](http://neuralnetworksanddeeplearning.com/chap1.html#learning_with_gradient_descent) you can familiarize yourself with gradient descent. You will get to know what makes its stochastic version stochastic, what is a mini-batch, what are hyperparameters.
+  - Reading [Chapter 1 of Michael Nielsen's book](http://neuralnetworksanddeeplearning.com/chap1.html#learning_with_gradient_descent) you can familiarize yourself with gradient descent. You will get to know what makes its stochastic version stochastic, what a mini-batch is or what the hyperparameters are.
    - [Numerical computations](http://www.deeplearningbook.org/contents/numerical.html)
 - Back propagation
-  - For an introductory reading I also recommend [Chapter 2 of Michael Nielsen's book](http://neuralnetworksanddeeplearning.com/chap2.html)
+  - For an introductory reading I recommend [Chapter 2 of Michael Nielsen's book](http://neuralnetworksanddeeplearning.com/chap2.html)
   - You also have to read [Calculus on Computational Graphs: Backpropagation *on Colah's blog*](http://colah.github.io/posts/2015-08-Backprop/), it has beautiful illustrations that really helps imagine the process.
 
 ## ???
