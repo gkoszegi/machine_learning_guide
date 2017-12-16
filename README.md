@@ -62,6 +62,9 @@ It is going through the theory step by step while implementing a Python/NumPy ba
 - [How to choose a neural network's hyper-parameters?](http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_network's_hyper-parameters)
 
 ## Other types of machine learning
+- Overviews
+  - [Intel AI Academy - Machine Learning 101](https://software.intel.com/ai-academy/students/kits/machine-learning-101)
+  - [scikit-learn - Supervised learning](http://scikit-learn.org/stable/supervised_learning.html)
 - Naive Bayes
   - [SciKit Learn](http://scikit-learn.org/stable/modules/naive_bayes.html)
   - [Mathematical Concepts and Principles of Naive Bayes](https://software.intel.com/articles/mathematical-concepts-and-principles-of-naive-bayes)
